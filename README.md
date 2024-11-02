@@ -14,12 +14,12 @@ CryptoGaze is a web application providing real-time insights into various crypto
 
 <div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="20"/>
-    <span>React.js: Frontend framework for building a responsive user interface.</span>
+    <span><b>React.js</b>: Frontend framework for building a responsive user interface.</span>
 </div>
 
 <div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="20"/>
-    <span>CSS: Styling to enhance UI/UX.</span>
+    <span><b>CSS</b>: Styling to enhance UI/UX.</span>
 </div>
 ⭐ CoinGecko API: Data source for real-time cryptocurrency information.
 
